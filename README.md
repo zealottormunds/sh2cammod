@@ -10,9 +10,9 @@ Thanks for downloading my SH2 Camera Mod!
 - External config app to modify settings outside of the game
 
 Special thanks to:
-- Phillip Trudeau for his incredible SH2 Map Editor.
-- The Enhanced Edition team for making the best version of the game. I wouldn't have modded this game otherwise.
-- Bawkbasoup, Just Happy Burger, JSTRETCH, Silent Archives, Razor9809, TommyMyers-PNG, Nokoshow, and all of those who have spread the word about my mods.
+- Phillip Trudeau for his incredible SH2 Map Editor (https://github.com/pmttavara/ph2)
+- The Enhanced Edition team for making the best version of the game. I wouldn't have modded this game otherwise (https://enhanced.townofsilenthill.com/SH2/)
+- [Bawkbasoup](https://www.youtube.com/@Bawkbasoup), [Just Happy Burger](https://www.youtube.com/@JustHappyBurger), [JSTRETCH](https://www.youtube.com/c/ElS%C3%B3tanodeJSTRETCH), [Silent Archives](https://www.youtube.com/@silenthillarchives), [Razor9809](https://www.youtube.com/@Razor9809), [TommyMyers-PNG](https://www.youtube.com/@TommyMyers-PNG), [Nokoshow](https://www.youtube.com/@Nokoshow), and all of those who have spread the word about my mods.
 - All of you who have played my mods, donated me and shared my work.
 - Lin Min for the Dll Wrapper that I used.
 
@@ -30,6 +30,9 @@ Drag and drop all the files from the .rar into your SH2 root folder. Replace if 
 - ESC to go back
 - Enter to turn a setting ON/OFF
 - WASD to navigate
+
+You can also use the settings app outside of the game (SH2CameraConfig.exe):
+![imagen](https://github.com/user-attachments/assets/e71e8340-25d8-477f-81e7-63dd065f0c3c)
 
 **Follow me on Twitter (@zealot_tomato) to get the news on my mods!**
 
