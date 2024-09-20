@@ -1,4 +1,4 @@
-![cammod](https://github.com/user-attachments/assets/306a74eb-8339-46ec-a72b-e9c800a43e59)
+![SH2MOD](https://github.com/user-attachments/assets/5cbdcda5-0481-46db-9606-66b23aa9b53e)
 
 Thanks for downloading my SH2 Camera Mod!
 
@@ -7,6 +7,7 @@ Thanks for downloading my SH2 Camera Mod!
 - First Person Camera Mod
 - Manual Aiming Mod
 - Observation Deck and Restroom Map Fixes (More might be coming)
+- External config app to modify settings outside of the game
 
 Special thanks to:
 - Phillip Trudeau for his incredible SH2 Map Editor.
@@ -34,5 +35,5 @@ Drag and drop all the files from the .rar into your SH2 root folder. Replace if 
 
 Also some of you have told me you wanna tip me so I won't say no, here's my paypal crap if you wanna do it (it's not necessary, this mod is free, only do this if you wanna waste money): [Paypal crap in case you wanna waste money](https://www.paypal.me/zealottomato)
 
-![2](https://github.com/user-attachments/assets/f24f5f99-64f9-4b1c-8715-ac0b40f054ef)
-![3](https://github.com/user-attachments/assets/ae5e507d-628b-4a9d-9f3c-3c24ba0e0ca2)
+![sh21](https://github.com/user-attachments/assets/e0fe5c79-ee66-4534-b1cb-c176f18dd3c3)
+![sh22](https://github.com/user-attachments/assets/9efd2369-bc38-46fc-a0eb-b7485195ac86)
