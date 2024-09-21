@@ -9,6 +9,15 @@ Thanks for downloading my SH2 Camera Mod!
 - Observation Deck and Restroom Map Fixes (More might be coming)
 - External config app to modify settings outside of the game
 
+**Changelog v1.0a:**
+- Fixed invisible enemies
+- Fixed model swapped enemies (lmao)
+- Fixed random first person crashes
+
+**Changelog v1.1:**
+- Added option to disable camera smoothing (Aim Settings -> Enable Camera Smoothing)
+- Added option to invert camera axes (Aim Settings -> Invert X / Invert Y)
+
 Special thanks to:
 - Phillip Trudeau for his incredible SH2 Map Editor (https://github.com/pmttavara/ph2)
 - The Enhanced Edition team for making the best version of the game. I wouldn't have modded this game otherwise (https://enhanced.townofsilenthill.com/SH2/)
