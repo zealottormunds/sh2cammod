@@ -18,6 +18,10 @@ Thanks for downloading my SH2 Camera Mod!
 - Added option to disable camera smoothing (Aim Settings -> Enable Camera Smoothing)
 - Added option to invert camera axes (Aim Settings -> Invert X / Invert Y)
 
+**Changelog v1.2:**
+- Added free camera (when OTS Mod is enabled, press F3 to enable free camera, and then F4 to set the camera position to the player. Alternatively, use the menu to enable this mode.) 
+- Added render settings to temporarily disable fog
+
 Special thanks to:
 - Phillip Trudeau for his incredible SH2 Map Editor (https://github.com/pmttavara/ph2)
 - The Enhanced Edition team for making the best version of the game. I wouldn't have modded this game otherwise (https://enhanced.townofsilenthill.com/SH2/)
